@@ -6,6 +6,7 @@ import numpy as np
 from mss import mss
 import time
 
+# fomikus release
 # Разрешение
 
 RESOLUTION = [int(x) for x in input("Введите разрешение экрана через x (Пр: 1920x1080, 1600x900, 1280x720, 2560x1440): ").split("x")]
